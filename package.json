@@ -2,10 +2,10 @@
   "name": "tracker",
   "version": "1.0.0",
   "private": true,
-  "main": "server.js",
+  "main": "b.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js"
+    "b": "node b.js",
+    "dev": "node --watch b.js"
   },
   "dependencies": {
     "express": "^5.3.0"
